@@ -24,7 +24,7 @@
 	"Name": "Targeting",
 	"Description": "Helper plugin for Targeting",
 	"InternalName": "BetterTargetingSystem",
-	"AssemblyVersion": "1.0.1.1",
+	"AssemblyVersion": "1.0.1.2",
 	"IconUrl": "",
 	"ApplicableVersion": "any",
 	"Tags": [
