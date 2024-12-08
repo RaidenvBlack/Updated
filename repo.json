@@ -4,8 +4,8 @@
 	"Name": "Repair",
 	"Description": "Helper plugin for Repair",
 	"InternalName": "RepairYou",
-	"AssemblyVersion": "1.0.1.0",
-	"IconUrl": "",
+	"AssemblyVersion": "1.0.1.1",
+	"IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Repair.png",
 	"ApplicableVersion": "any",
 	"Tags": [
 		"repair", "qol", "easy"
@@ -24,8 +24,8 @@
 	"Name": "Targeting",
 	"Description": "Helper plugin for Targeting",
 	"InternalName": "Better",
-	"AssemblyVersion": "1.0.1.3",
-	"IconUrl": "",
+	"AssemblyVersion": "1.0.1.4",
+	"IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Target.png",
 	"ApplicableVersion": "any",
 	"Tags": [
 		"targeting", "qol", "easy"
@@ -44,8 +44,8 @@
 	"Name": "FakeName",
 	"Description": "Helper plugin for Renaming",
 	"InternalName": "FakeName",
-	"AssemblyVersion": "1.0.1.1",
-	"IconUrl": "",
+	"AssemblyVersion": "1.0.1.2",
+	"IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Name.png",
 	"ApplicableVersion": "any",
 	"Tags": [
 		"Name", "qol", "easy"
