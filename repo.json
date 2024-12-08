@@ -38,5 +38,25 @@
 	"DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/Better.zip",
 	"DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/Better.zip",
 	"DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/Better.zip"
+  },
+  {
+    "Author": "NoClue",
+	"Name": "FakeName",
+	"Description": "Helper plugin for Renaming",
+	"InternalName": "FakeName",
+	"AssemblyVersion": "1.0.1.1",
+	"IconUrl": "",
+	"ApplicableVersion": "any",
+	"Tags": [
+		"Name", "qol", "easy"
+	],
+	"DalamudApiLevel": 11,
+	"IsHide": "False",
+	"IsTestingExclusive": "False",
+	"LastUpdated": 0,
+	"DownloadCount": 0,
+	"DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/FakeName.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/FakeName.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/FakeName.zip"
   }
 ]
