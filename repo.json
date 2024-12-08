@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "NoClue",
+	"Name": "Repair",
+	"Description": "Helper plugin for Blackjack",
+	"InternalName": "RepairYou",
+	"AssemblyVersion": "1.0.1.0",
+	"IconUrl": "",
+	"ApplicableVersion": "any",
+	"Tags": [
+		"repair", "qol", "easy"
+	],
+	"DalamudApiLevel": 11,
+	"IsHide": "False",
+	"IsTestingExclusive": "False",
+	"LastUpdated": 0,
+	"DownloadCount": 0,
+	"DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/RepairYou.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/RepairYou.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/RepairYou.zip"
+  }
+]
