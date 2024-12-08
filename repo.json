@@ -23,7 +23,7 @@
     "Author": "NoClue",
 	"Name": "Targeting",
 	"Description": "Helper plugin for Targeting",
-	"InternalName": "Better",
+	"InternalName": "BetterTargetingSystem",
 	"AssemblyVersion": "1.0.1.1",
 	"IconUrl": "",
 	"ApplicableVersion": "any",
