@@ -4,7 +4,7 @@
     "Name": "Repair",
     "Description": "Helper plugin for Repair",
     "InternalName": "RepairYou",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Repair.png",
     "ApplicableVersion": "any",
     "Tags": [
@@ -12,7 +12,7 @@
       "qol",
       "easy"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
@@ -26,7 +26,7 @@
     "Name": "Targeting",
     "Description": "Helper plugin for Targeting",
     "InternalName": "Better",
-    "AssemblyVersion": "1.0.1.4",
+    "AssemblyVersion": "1.0.1.5",
     "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Target.png",
     "ApplicableVersion": "any",
     "Tags": [
@@ -34,7 +34,7 @@
       "qol",
       "easy"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
@@ -48,7 +48,7 @@
     "Name": "FakeName",
     "Description": "Helper plugin for Renaming",
     "InternalName": "FakeName",
-    "AssemblyVersion": "1.0.1.2",
+    "AssemblyVersion": "1.0.1.3",
     "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Name.png",
     "ApplicableVersion": "any",
     "Tags": [
@@ -56,7 +56,7 @@
       "qol",
       "easy"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
@@ -70,7 +70,7 @@
     "Name": "WotsitDutyFix",
     "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
     "InternalName": "WotsitDutyFix",
-    "AssemblyVersion": "1.0.5.4",
+    "AssemblyVersion": "1.0.5.5",
     "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Name.png",
     "ApplicableVersion": "any",
     "Tags": [
@@ -78,7 +78,7 @@
       "qol",
       "easy"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
@@ -86,5 +86,30 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/WotsitDutyFix.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/WotsitDutyFix.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/WotsitDutyFix.zip"
+  },
+  {
+    "Author": "NoClue",
+    "Name": "AutoMarket",
+    "Description": "Auto prices your listings automatically on a set schedule. Can auto post items as well..",
+    "InternalName": "AutoBot",
+    "AssemblyVersion": "7.15.24",
+    "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Name.png",
+    "ApplicableVersion": "any",
+    "Tags": [
+    "autobot",
+    "afk",
+    "notifications"
+    ],
+    "DalamudApiLevel": 12,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "SupportsProfiles": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/work.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/work.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/work.zip"
   }
 ]
