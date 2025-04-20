@@ -111,5 +111,30 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/work.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/work.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/work.zip"
+  },
+  {
+    "Author": "NoClue",
+    "Name": "Inviter",
+    "Description": "Invites",
+    "InternalName": "Inviter",
+    "AssemblyVersion": "7.15.25",
+    "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Name.png",
+    "ApplicableVersion": "any",
+    "Tags": [
+    "inviter",
+    "invite",
+    "notifications"
+    ],
+    "DalamudApiLevel": 12,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 0,
+    "DownloadCount": 69,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "SupportsProfiles": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/inv.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/inv.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com//RaidenvBlack/Updated/main/inv.zip"
   }
 ]
