@@ -70,7 +70,7 @@
     "Name": "WotsitDutyFix",
     "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
     "InternalName": "WotsitDutyFix",
-    "AssemblyVersion": "1.0.5.5",
+    "AssemblyVersion": "1.0.6.1",
     "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/Updated/main/icons/Name.png",
     "ApplicableVersion": "any",
     "Tags": [
@@ -78,7 +78,7 @@
       "qol",
       "easy"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
